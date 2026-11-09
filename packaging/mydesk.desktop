@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=MyDesk
+GenericName=Remote Desktop
+Comment=Fast, encrypted remote desktop
+Exec=mydesk
+Icon=mydesk
+Terminal=false
+Categories=Network;RemoteAccess;
+StartupWMClass=mydesk
