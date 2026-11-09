@@ -17,7 +17,7 @@ path = "src/main.rs"
 [dependencies]
 eframe = "0.37.0"
 egui = "0.37.0"
-xcap = "0.9.9"
+xcap = "0.9.10"
 openh264 = "0.9.9"
 enigo = "0.6.1"
 arboard = "3.7.0"
